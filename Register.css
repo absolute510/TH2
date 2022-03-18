@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+#header1{
+	text-align: center;
+	font-size: 80px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	background-color:deepskyblue;
+	border: groove 5px;
+	padding: 20px;	
+}
+section{
+	overflow: auto;
+}
+#aside{
+	width: 25%;
+	float: left;
+	border: groove 5px;
+	padding: 8px;
+	padding-bottom: 263px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+#outputReg{
+	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 18px;
+	color: white;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+#article{
+	width: 70%;
+	float: center;
+	border: groove 5px;
+	padding: 9px;
+	margin-left: 13%;
+	background-color: gray;
+}
+#header2{
+	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 20px;
+	color: white;
+}
+table{
+	color: white;
+	width: 800px; 
+	border:none;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-align: left;
+	margin-left: 20%;
+	outline: none;
+}
+td{
+	padding-top: 20px;
+}
+input{
+	outline: none;
+}
+select{
+	outline: none;
+}
+
+
